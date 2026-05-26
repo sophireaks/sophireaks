@@ -134,18 +134,11 @@ Systems        Linux internals · Syscall interface · Memory management
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sophireaks&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&hide_title=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophireaks&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=5&hide_title=true"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=sophireaks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=00000000"/>
 
 <br/>
 
-<!-- Snake animation — enable by adding the GitHub Action below -->
-<img src="https://github.com/sophireaks/sophireaks/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/sophireaks/sophireaks/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 
