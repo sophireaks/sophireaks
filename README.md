@@ -138,7 +138,7 @@ Systems        Linux internals · Syscall interface · Memory management
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sophireaks/sophireaks/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://github.com/sophireaks/sophireaks/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="contribution snake"/>
 
 </div>
 
