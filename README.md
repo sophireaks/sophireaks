@@ -20,12 +20,4 @@ Security researcher and DevOps engineer working close to the kernel — eBPF, sy
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sophireaks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=00000000" height="150"/>
-
-</div>
-
-<br/>
-
 <sub>All research authorized, scoped, and disclosed responsibly.</sub>
