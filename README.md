@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+CTF+Competitor;eBPF+%7C+Kernel+Internals+%7C+Syscall+Analysis;DevOps+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Detection+Engineering+%7C+Threat+Hunting;Red+Team+in+Controlled+Lab+Environments" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=eBPF+%7C+Kernel+Internals+%7C+Syscall+Analysis;DevOps+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Detection+Engineering+%7C+Threat+Hunting;Red+Team+in+Controlled+Lab+Environments" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -15,6 +15,10 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Sophireak.S-white?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Sophireak.S)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sophireaksoeng%40gmail.com-white?style=flat-square&logo=gmail&logoColor=black)](mailto:sophireaksoeng@gmail.com)
+
+<br/>
+
+`security` · `devops` · `low-level` · `stats`
 
 <br/>
 
@@ -33,16 +37,14 @@ whoami
   I build infrastructure that's observable, pipelines that
   ship securely, and tooling that exposes what attackers hide.
 
-  Active CTF competitor · Pursuing CompTIA Security+
+  Active CTF competitor  ·  Pursuing CompTIA Security+
   All research: authorized · scoped · documented
 ───────────────────────────────────────────────────────────────
 ```
 
----
-
 <br/>
 
-## `~/security`
+## <a name="security"></a>`~/security`
 
 ```
 Research       eBPF-based kernel stealth & visibility manipulation
@@ -75,7 +77,7 @@ Reporting      Structured Markdown / LaTeX with remediation guidance
 
 ---
 
-## `~/devops`
+## <a name="devops"></a>`~/devops`
 
 ```
 Containers     Docker · Kubernetes · Helm
@@ -105,7 +107,7 @@ Version Ctrl   Git · GitOps workflows
 
 ---
 
-## `~/low-level`
+## <a name="low-level"></a>`~/low-level`
 
 ```
 Languages      C · Python · Bash · Assembly (x86)
@@ -130,11 +132,12 @@ Systems        Linux internals · Syscall interface · Memory management
 
 ---
 
-## `~/stats`
+## <a name="stats"></a>`~/stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sophireaks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sophireaks&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sophireaks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=00000000" height="165"/>
 
 <br/>
 
