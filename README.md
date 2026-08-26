@@ -2,7 +2,9 @@
 
 # Sophireak S.
 
-Security research · DevOps · Kernel internals
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=888888&center=true&vCenter=true&width=440&lines=Security+Research;DevOps;Kernel+Internals" alt="Typing SVG"/>
+</a>
 
 [LinkedIn](https://www.linkedin.com/in/sophireak-soeng-10b668265/) · [TryHackMe](https://tryhackme.com/p/Sophireak.S) · [Email](mailto:sophireaksoeng@gmail.com)
 
