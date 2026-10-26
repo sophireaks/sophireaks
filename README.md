@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sophireak-soeng-10b668265/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/Sophireak.S"><img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/UnN4meDD"><img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
 <a href="mailto:sophireaksoeng@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
